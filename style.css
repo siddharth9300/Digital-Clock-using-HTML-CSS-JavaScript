@@ -1,0 +1,46 @@
+*{margin: 0;
+    padding: 0;}
+body{
+    display: flex;
+    align-items: center;
+}
+.digital-clock{
+    display:flex;
+    font-family: 'Orbitron', sans-serif;
+    margin: 15px;
+    padding: 15px;
+    height:max-content;
+    width:max-content;
+    border: 5px solid;
+    border-radius: 15px;
+    
+    
+}
+#time{
+    margin-left: 15px;
+}
+.date{
+    display:flex;
+    font-family: 'Orbitron', sans-serif;
+    margin: 15px;
+    padding: 15px;
+    height:max-content;
+    width:max-content;
+    border: 5px solid;
+    border-radius: 15px;
+}
+#date{
+    margin-left: 15px;
+}
+
+/* 
+.circle{
+    margin: 15px;
+    border: 5px solid;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+} */
+
+
